@@ -27,7 +27,7 @@ SMM-analytics scripts/
 ├── .gitignore                  # Список файлов и папок, которые Git должен игнорировать
 ├── requirements.txt            # Список необходимых Python-библиотек
 └── gemeni.md                   # Контекст и правила работы проекта для AI-ассистента
-
+```
 all requirements -->
 ```powershell
 
